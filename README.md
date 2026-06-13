@@ -5,7 +5,7 @@ Full-stack AI Builder
 这些年做过产品、平台、开发者工具、基础设施、Web3、小爬虫、机器人，也写过很多给自己提效的小工具。最近主要在折腾 LLM 和 AI Agent：记忆、工具调用、浏览器自动化、AI 网关、评测，以及怎么让 Agent 真正变得好用。  
 I have built products, platforms, developer tools, infra, Web3 bits, crawlers, bots, and plenty of small workflow tools. These days I spend most of my tinkering time on LLMs and AI Agents: memory, tool use, browser automation, gateways, evals, and making agents actually useful.
 
-有些有意思的东西我会顺手记下来。
+有些有意思的东西我会顺手记下来。  
 I write things interesting.
 
 ## 最近关注 / Current Focus
